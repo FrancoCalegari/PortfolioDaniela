@@ -85,11 +85,13 @@ section {
     max-width: 900px;
     background-color: #adbbbe;
     padding: 12px 12px 30px 12px;
-    margin-top: 5em;
+    margin-top: 8em;
     margin-bottom: 5em;
     border-radius: 15px;
     
 }
+
+
 
 .welcome h1 {
     font-family:Abril_Fatface ;
@@ -121,8 +123,26 @@ section {
     width: 100%;
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
  
 }
+
+
+.habilidades {
+    width: 70%;
+    
+    background-color: #adbbbe;
+
+    margin-top: 5em;
+    margin-bottom: 5em;
+    border-radius: 15px;
+    margin: auto;
+    
+}
+
+
+
+
 
 footer {
     background-color: #ADBBBE;
